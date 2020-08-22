@@ -11,3 +11,10 @@ Hey Welcome to a project I made with **C#**, This tool will allow you to check R
     - Better Way to show messages
 ## Credits
 BITE | I took there code and made it better or worst For me it seems alot better
+
+## Used To Create
+- Programming Language
+   - C# 8.0
+- IDE
+   - Visual Studio 2019
+   
